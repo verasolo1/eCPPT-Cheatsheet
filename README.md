@@ -1,4 +1,6 @@
 # eCPPT-CheatSheet
+<img width="232" height="307" alt="image" src="https://github.com/user-attachments/assets/4f7da302-01a8-4a74-9eb1-bd1c343b849c" />
+
 
 ## Table of Contents
 - [PowerShell](#powershell)
